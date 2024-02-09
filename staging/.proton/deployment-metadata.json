@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "d2e76158-d08a-4bc9-b43e-194bc5f77c95",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:105904777037:environment/staging",
+    "templateArn" : "arn:aws:proton:eu-west-2:105904777037:environment-template/vpc-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
